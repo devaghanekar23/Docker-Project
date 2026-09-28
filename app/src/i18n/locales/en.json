@@ -1,0 +1,32 @@
+{
+  "app": {
+    "title": "Recipe App",
+    "searchPlaceholder": "Search recipes..."
+  },
+  "recipe": {
+    "ingredients": "Ingredients",
+    "steps": "Steps",
+    "time": "Time",
+    "difficulty": "Difficulty",
+    "servings": "servings",
+    "serving": "serving",
+    "whatYouNeed": "WHAT YOU NEED",
+    "method": "Method",
+    "stepByStep": "STEP BY STEP",
+    "save": "Save Recipe",
+    "saved": "Saved",
+    "edit": "Edit",
+    "delete": "Delete",
+    "yourRating": "YOUR RATING",
+    "howWasIt": "How was it?",
+    "community": "COMMUNITY",
+    "reviews": "Reviews",
+    "reviewPlaceholder": "Share your experience...",
+    "addReview": "Add Review",
+    "noReviews": "No reviews yet. Be the first!",
+    "you": "You"
+  },
+  "category": {
+    "sweets": "Sweets"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "app": {
+    "title": "रेसिपी ऐप",
+    "searchPlaceholder": "रेसिपी खोजें..."
+  },
+  "recipe": {
+    "ingredients": "सामग्री",
+    "steps": "बनाने की विधि",
+    "time": "समय",
+    "difficulty": "कठिनाई",
+    "servings": "सर्विंग्स",
+    "serving": "सर्विंग",
+    "whatYouNeed": "आपको क्या चाहिए",
+    "method": "विधि",
+    "stepByStep": "चरण दर चरण",
+    "save": "रेसिपी सेव करें",
+    "saved": "सेव किया गया",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "yourRating": "आपकी रेटिंग",
+    "howWasIt": "कैसी थी?",
+    "community": "समुदाय",
+    "reviews": "समीक्षाएं",
+    "reviewPlaceholder": "अपना अनुभव साझा करें...",
+    "addReview": "समीक्षा जोड़ें",
+    "noReviews": "अभी तक कोई समीक्षा नहीं। पहले बनें!",
+    "you": "आप"
+  },
+  "category": {
+    "sweets": "मिठाई"
+  }
+}
