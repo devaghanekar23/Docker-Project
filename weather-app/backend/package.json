@@ -1,0 +1,15 @@
+{
+  "name": "weather-backend",
+  "version": "1.0.0",
+  "description": "Simple Weather App backend (Express, no database, calls free Open-Meteo API)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0"
+  }
+}
