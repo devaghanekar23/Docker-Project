@@ -336,8 +336,3 @@ aws ecs update-service --cluster weather-cluster --service weather-service --for
 - Troubleshot problems and documented the work professionally.
 
 ---
-
-## 16. Author
-
-**Devendra Ghanekar**
-DevOps With AWS - ITVedant (Batch Jun2026-A529)
