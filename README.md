@@ -4,9 +4,9 @@ ITVedant DevOps Fundamentals - Docker Mini Project
 
 	
 Student Name	Devendra Ghanekar
-Batch Code	Jun2026-A529
 Institute	IT Vedant
 Course	DevOps With AWS
+
 1. Project Overview
 
 This project containerizes a Weather App (frontend + backend) using Docker and deploys it on AWS. It covers the full Docker journey:
